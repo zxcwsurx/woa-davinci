@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/graphiks/woa-raphael/main/media/raphael.png" width="350" alt="Windows 11 running on davinci">
 
-# Running Windows on the Mi 9t pro
+# Running Windows on the Mi 9t
 
 ## Root guide
 

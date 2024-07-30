@@ -3,7 +3,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/graphiks/woa-raphael/main/media/raphael.png" width="350" alt="Windows 11 running on davinci">
 
-# Running Windows on the Mi 9t Pro
+# Running Windows on the Mi 9t 
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woa-davinci)
 
 ## Choose your language
